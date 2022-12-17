@@ -1,5 +1,8 @@
 # Voronoi animation in the terminal
 
+<p>
+    <img src="https://raw.githubusercontent.com/SHA65536/Voronoi/main/.github/demo.gif" width="100%" alt="Voronoi Example">
+</p>
 
 ## Install
 Install easily using go:
